@@ -15,4 +15,4 @@ python3 main.py "url"
 
 BeautifulSoup 一个用于解析网页的工具包，功能非常齐全
 
-pip install beautifulsoup4 -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip3 install beautifulsoup4 -i https://pypi.tuna.tsinghua.edu.cn/simple
